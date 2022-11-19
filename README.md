@@ -2,7 +2,7 @@
 ## >> Full Remote Software Developer
 
 - 👋 I’m currently working on Fusion Soft Co., Ltd. As a full time job ( WFH 100% )
-- 👀 I’m a Software Developer with 5+ years of experience. Developing Web App, Mobile App, and API development.
+- 👀 I’m a Software Developer with 5+ years of experience Developing Web App, Mobile App, and API development.
 - 🌱 I’m currently interested web 3.0, Blockchain, other new technology
 - 💞️ I’m looking friends for helping each other improve our skill ...
 - 💬 Ask me more about my self or everything ...
