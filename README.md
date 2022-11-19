@@ -7,6 +7,8 @@
 - 💞️ I’m looking friends for helping each other improve our skill ...
 - 💬 Ask me more about my self or everything ...
 
+Skills
+Javascript Typescript React NodeJS Express GraphQL MongoDB MySQL PostgreSQL Firebase
 <!---
 ituchkub/ituchkub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
